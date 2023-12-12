@@ -19,3 +19,8 @@ Test:
 ```shell
 curl -w "\n" -X POST http://localhost:8080/example
 ```
+
+Clean:
+```shell
+./setup/clean.sh
+```
